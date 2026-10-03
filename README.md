@@ -38,7 +38,8 @@ python jarvis.py
    - "Open Notepad"
    - "Play <song name>"
    - "News"
-   - Anything else goes to the AI, e.g. "What is recursion?"
+   - Anything you want to open in your system or in your web browser by just saying one word called "jarvis" 😊
+    - Anything else goes to the AI, e.g. "What is recursion?"
 
 ## How It Works
 Wake word -> command recognition -> keyword routing (sites, apps, music, news) -> fallback to OpenAI for everything else.
