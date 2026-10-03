@@ -1,0 +1,5 @@
+﻿SpeechRecognition
+PyAudio
+pywin32
+requests
+openai
